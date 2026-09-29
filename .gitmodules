@@ -1,3 +1,3 @@
 [submodule "libs/subproj"]
 	path = libs/subproj
-	url = https://github.com/KePaRik7/subproj.git
+	url = https://github.com/<твой-логин>/subproj-renamed.git
